@@ -4,26 +4,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>TEAM MEMBERS</h2>
-<table>
-  <tr>
-    <td>TEAM LEADER</td>
-    <td>MUKILAN K</td>
-  <tr>
-    <td>TEAM MEMBER 1</td>
-    <td>BARANI A</td>
-  </tr>
-  <tr>
-    <td>TEAM MEMBER 2</td>
-    <td>VENKATESH V</td>
-  </tr>
-  <tr>
-    <td>TEAM MEMBER 3</td>
-    <td>NAVEEN KUMAR S</td>
-  </tr>
-  </table>
 
-<h2>TEAM DETAILS</h2>
+# 📝TEAM DETAILS
 
 <table>
   <tr>
